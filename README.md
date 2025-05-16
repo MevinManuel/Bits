@@ -2,7 +2,7 @@
 
 Welcome to **Bits**, an all-in-one gaming app designed to bring classic and fun games under one roof! Whether you're playing solo or challenging a friend in 2-player mode, Bits makes it easy to jump right into the action.
 
-![Bits Banner](assets/banner.png) <!-- Add your own image path or delete this line -->
+![Bits Banner](assets/1.png) 
 
 ---
 
@@ -28,9 +28,9 @@ Welcome to **Bits**, an all-in-one gaming app designed to bring classic and fun 
 
 ## 📱 Screenshots
 
-| Snake Game | Wordle Clone | Pong |
+| Snake Game | Wordle Clone | Pong | 2048 | mole | queens |
 |-----------|---------------|------|
-| ![Snake](assets/snake.png) | ![Wordle](assets/wordle.png) | ![Pong](assets/pong.png) |
+| ![Snake](assets/Snake.png) | ![Wordle](assets/2.png) | ![Pong](assets/pong.png) | ![2048](assets/2048.png) | ![mole](assets/molee.png) | ![queens](assets/queens.png) |
 
 
 ---
