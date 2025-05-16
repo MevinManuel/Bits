@@ -28,9 +28,9 @@ Welcome to **Bits**, an all-in-one gaming app designed to bring classic and fun 
 
 ## 📱 Screenshots
 
-| Snake Game | Wordle Clone | Pong | 2048 | mole | queens |
-|-----------|---------------|------|
-| ![Snake](assets/Snake.png) | ![Wordle](assets/2.png) | ![Pong](assets/pong.png) | ![2048](assets/2048.png) | ![mole](assets/molee.png) | ![queens](assets/queens.png) |
+| Snake Game | tug-of-war | Pong | 2048 | mole | queens |
+
+| ![Snake](assets/Snake.png) | ![tug-of-war](assets/tugg.png) | ![Pong](assets/pong.png) | ![2048](assets/2048.png) | ![mole](assets/molee.png) | ![queens](assets/queens.png) |
 
 
 ---
@@ -54,15 +54,18 @@ npx expo start
 ```
 Requires Node.js and Expo CLI (npm install -g expo-cli)
 
-👨‍💻 Author
+
+
+##👨‍💻 Author
 Mevin Manuel
 📧 Mevinmnl123@gmail.com
-🔗 LinkedIn • GitHub
+🔗 LinkedIn  - https://www.linkedin.com/in/mevin-manuel-b3b670275/
+🔗 GitHub    - https://github.com/MevinManuel
 
-🏁 Roadmap
+##🏁 Roadmap
  Add global high score system
  Add sound effects and vibration feedback
 
 
-📄 License
+##📄 License
 This project is open source and available under the MIT License.
