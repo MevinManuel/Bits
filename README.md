@@ -23,6 +23,9 @@ Welcome to **Bits**, an all-in-one gaming app designed to bring classic and fun 
 - 🎯 **Wordle Clone** – Guess the 5-letter word
 - 👑 **N-Queens** – Solve the legendary chess puzzle
 - 🏓 **Pong** – Retro 2-player bounce-off
+- 🪢 **tug-of-war** –  2-player tug-of-war
+- 🐿️ **Mole** – hit the popping moles
+
 
 ---
 
@@ -30,7 +33,7 @@ Welcome to **Bits**, an all-in-one gaming app designed to bring classic and fun 
 
 | Snake Game | tug-of-war | Pong | 2048 | mole | queens |
 
-| ![Snake](assets/Snake.png) | ![tug-of-war](assets/tugg.png) | ![Pong](assets/pong.png) | ![2048](assets/2048.png) | ![mole](assets/molee.png) | ![queens](assets/queens.png) |
+ ![Snake](assets/Snake.png) | ![tug-of-war](assets/tugg.png) | ![Pong](assets/pong.png) | ![2048](assets/2048.png) | ![mole](assets/molee.png) | ![queens](assets/queens.png) |
 
 
 ---
@@ -55,17 +58,39 @@ npx expo start
 Requires Node.js and Expo CLI (npm install -g expo-cli)
 
 
+## 👨‍💻 Author
 
-##👨‍💻 Author
-Mevin Manuel
-📧 Mevinmnl123@gmail.com
-🔗 LinkedIn  - https://www.linkedin.com/in/mevin-manuel-b3b670275/
-🔗 GitHub    - https://github.com/MevinManuel
+**Mevin Manuel**  
+📧 Mevinmnl123@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/mevin-manuel-b3b670275/)  
+🔗 [GitHub](https://github.com/MevinManuel)
 
-##🏁 Roadmap
- Add global high score system
- Add sound effects and vibration feedback
+---
 
+## 🏁 Roadmap
 
-##📄 License
-This project is open source and available under the MIT License.
+- [ ] Add global high score system  
+- [ ] Add sound effects and vibration feedback
+
+---
+
+## 🔗 Useful Links
+
+- [Expo Documentation](https://docs.expo.dev/)
+- [React Native](https://reactnative.dev/)
+- [Open Source License Guide](https://choosealicense.com/)
+
+---
+
+## 🧠 What I Learned
+
+- Building multi-screen apps using React Navigation
+- Managing game state and animations in React Native
+- Designing flexible UI for both web and mobile with Expo
+- Handling gesture-based controls and local multiplayer logic
+
+---
+
+## 📄 License
+
+This project is open source and available under the **MIT License**.
